@@ -2,4 +2,4 @@
 *.orig
 *.rej
 *.o
-./st
+st
